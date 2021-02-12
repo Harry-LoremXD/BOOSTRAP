@@ -1,0 +1,39 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+
+}
+header {
+
+}
+nav {
+
+}
+.jumbotron {
+
+}
+.carousel {
+
+}
+footer {
+    box-sizing: inherit;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.footer-columna-1 {
+    background-color: lawngreen;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.footer-columna-2 {
+    background-color: lightsalmon;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.footer-columna-3 {
+    background-color: lightseagreen;
+}
